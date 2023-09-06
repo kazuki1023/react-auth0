@@ -1,6 +1,6 @@
 import React from "react";
 import "./Navbar.css";
-import LoginButton from "./login";
+import LoginButton from "./Auth/Login";
 
 const Navbar = ({pockemonCount}) => {
   return (
